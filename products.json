@@ -1,0 +1,55 @@
+[
+    {
+        "name":"iphone",
+        "price":154,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"iphone14",
+        "price":1276,
+        "featured":true,
+        "company":"apple"
+    },
+    {
+        "name":"watch",
+        "price":300,
+        "company":"apple"
+    },
+    {
+        "name":"dell gaming laptop",
+        "price":4000,
+        "featured":true,
+        "company":"dell"
+    },
+    {
+        "name":"samsung M32",
+        "price":200,
+        "company":"samsung"
+    },
+    {
+        "name":"noddles",
+        "price":16,
+        "company":"wai-wai"
+    },
+    {
+        "name":"grundruk",
+        "price":16,
+        "company":"darjeeling"
+    },
+    {
+        "name":"dallay",
+        "price":16,
+        "company":"pickles"
+    },
+    {
+        "name":"mi20",
+        "price":701,
+        "company":"mi"
+    },
+     {
+        "name":"headphone",
+        "price":701,
+        "company":"boat"
+    }
+]
